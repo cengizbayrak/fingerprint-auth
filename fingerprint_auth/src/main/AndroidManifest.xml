@@ -1,0 +1,6 @@
+<!--suppress DeprecatedClassUsageInspection -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cengizb.fingerprint_auth">
+
+    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+</manifest>

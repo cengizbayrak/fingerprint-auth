@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">Parmak İzi Okuyucu</string>
+    <string name="access_restricted" translatable="false">Access restricted!</string>
+    <string name="tap_on_the_authenticate_button_to_authenticate_your_self" translatable="false">Tap on the authenticate button to authenticate yourself.</string>
+    <string name="authenticate_using_fingerprint" translatable="false">Authenticate using fingerprint</string>
+    <string name="fingerprint_dialog_title" translatable="false">Authentication required</string>
+    <string name="fingerprint_dialog_subtitle" translatable="false">We need to make sure it is you.</string>
+    <string name="fingerprint_dialog_description" translatable="false">Place your finger on the fingerprint scanner and let the application perform biometric authentication.</string>
+    <string name="fingerprint_dialog_button_title" translatable="false">Stop authentication</string>
+    <string name="authentication_successful" translatable="false">Authentication successful.</string>
+    <string name="authentication_failed" translatable="false">Authentication failed!!!</string>
+    <string name="correct_pin_is_1234" translatable="false">(Shhhhh!!! Correct PIN is 1234.)</string>
+    <string name="enter_the_pin" translatable="false">Enter the PIN:</string>
+    <string name="pin_authentication_btn_tite" translatable="false">PIN Authentication</string>
+    <string name="error_auth_canceled_by_user" translatable="false">Authentication canceled by the user!</string>
+    <string name="error_no_fingerprints_enrolled" translatable="false">Add at least one fingerprint for authentication.</string>
+    <string name="error_fingerprints_not_supported" translatable="false">Device doesn\'t support fingerprint.</string>
+</resources>
